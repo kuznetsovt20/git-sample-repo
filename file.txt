@@ -1,2 +1,3 @@
 add first line of text
 add 2nd line of text
+add 3 line
